@@ -1,0 +1,9 @@
+Flask
+pandas
+ollama
+pyvis
+plotly
+altair
+shap
+scikit-learn
+matplotlib
